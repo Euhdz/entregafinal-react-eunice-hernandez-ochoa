@@ -1,0 +1,79 @@
+.cart-contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+  background-color: #f9f9f9;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.cart-contenedor p {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+.cart-contenedor h2 {
+  font-size: 2.5rem;
+  margin-top: 20px;
+}
+
+.cart-contenedor h3 {
+  font-size: 2rem;
+  margin-top: 20px;
+}
+
+.prod-contenedor {
+  margin-bottom: 5px;
+  padding: 5px;
+  border: none;
+}
+
+.cart-prods {
+  text-align: center;
+}
+
+.cart-contenedor button {
+  background-color: white;
+  color: #c50021;
+  font-size: 1.1rem;
+  border: solid 2px #c50021;
+  border-radius: 5px;
+  padding: 0.8rem 1rem;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.cart-contenedor button:hover {
+  background-color: #c50021;
+  color: white;
+}
+
+.boton-contenedor {
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.boton-contenedor button {
+  padding: 0.8rem 1rem;
+  font-size: 1.3rem;
+  background-color: #577439;
+  color: white;
+  border: solid, 2px;
+  border-color: #577439;
+  border-radius: 10x;
+  cursor: pointer;
+  margin-inline: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.boton-contenedor button:hover {
+  background-color: white;
+  color: #577439;
+  border: solid, 2px;
+  border-color: #577439;
+  font-weight: bold;
+}

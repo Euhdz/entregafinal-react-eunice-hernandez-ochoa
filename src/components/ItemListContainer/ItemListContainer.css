@@ -1,0 +1,13 @@
+.contenedorGeneral {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.tituloContenedorGeneral {
+  font-size: 2.5rem;
+  color: #577439;
+  padding-top: 1.5rem;
+}

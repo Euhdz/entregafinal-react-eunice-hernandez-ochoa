@@ -1,0 +1,72 @@
+.checkout-contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.checkout-contenedor p {
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
+
+.checkout-contenedor h3 {
+  font-size: 1.3rem;
+  margin-top: 20px;
+}
+
+.checkout-prod-contenedor {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: none;
+  background-color: #fff;
+}
+
+.form-contenedor {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1.3rem;
+}
+
+#emailconf {
+  border-color: #c50021;
+}
+
+.boton-contenedor-checkout {
+  display: flex;
+  font-size: 1.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.boton-checkout {
+  padding: 0.8rem 1rem;
+  font-size: 1.3rem;
+  background-color: #577439;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-inline: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}

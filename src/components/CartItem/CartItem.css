@@ -1,0 +1,24 @@
+.cart-contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.prod-contenedor {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: none;
+}
+
+.cart-contenedor p {
+  font-size: 1.5rem;
+  margin-top: 20px;
+}
+
+/* Estilos para el total del carrito */
+.cart-contenedor h3 {
+  font-size: 2rem;
+  margin-top: 20px;
+}
