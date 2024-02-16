@@ -1,6 +1,6 @@
-# Tienda Gallo
+# Tamales Gallo
 
-Tienda Gallo es un e-commerce básico de venta de tamales, atoles y otros postres creado como proyecto de aprendizaje para el curso de ReactJS de Coderhouse. La aplicacion permite ver todos los productos, o filtrarlos por categoría, ver el detalle de cada uno, seleccionar la cantidad deseada para gregarlos a un carrito de compras. Al finalizar se simula una compra que genera una orden que se almacena en Firebase y se descuenta el stock de los productos correspondientes. La información de los productos también están almacenados en Firebase.
+Tamales Gallo es un e-commerce básico de venta de tamales, atoles y otros postres creado como proyecto de aprendizaje para el curso de ReactJS de Coderhouse. La aplicacion permite ver todos los productos, o filtrarlos por categoría, ver el detalle de cada uno, seleccionar la cantidad deseada para gregarlos a un carrito de compras. Al finalizar se simula una compra que genera una orden que se almacena en Firebase y se descuenta el stock de los productos correspondientes. La información de los productos también están almacenados en Firebase.
 
 ## Estado del Proyecto
 
